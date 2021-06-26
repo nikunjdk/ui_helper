@@ -6,7 +6,7 @@
   <a href="http://makeapullrequest.com" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome Badge"></a>
 </p>
 
-UI Helpers to speed boost you development time! These will help you make your app responsive and also provides text styles.
+UI Helpers to speed boost your development time! These will help you make your app responsive easily and also provides text styles.
 
 ## Installation
 
