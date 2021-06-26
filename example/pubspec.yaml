@@ -1,0 +1,23 @@
+name: ui_helper_example
+description: Demonstrates how to use the ui_helper plugin.
+publish_to: "none"
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  ui_helper:
+    # When depending on this package from a real application you should use:
+    #   ui_helper: ^x.y.z
+    # The example app is bundled with the plugin so we use a path dependency on
+    # the parent directory to use the current plugin's version.
+    path: ../
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
