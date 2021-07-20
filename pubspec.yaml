@@ -1,6 +1,6 @@
 name: ui_helper
-description: UI Helpers to speed boost your development time! These will help you make your app responsive and also provides text styles.
-version: 1.0.0
+description: UI Helpers to speed boost your development time! These will help you make your app responsive and also provides easy way to create Text, Button and Text Field Widgets.
+version: 1.1.0
 homepage: https://github.com/nikunjdk/ui_helper
 
 environment:
