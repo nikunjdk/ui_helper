@@ -8,6 +8,12 @@
 
 UI Helpers to speed boost your development time! These will help you make your app responsive and also provides easy way to create Text, Button and Text Field Widgets.
 
+## Demo
+
+![Example 1](https://github.com/nikunjdk/ui_helper/blob/main/public/example_img_1.jpeg?raw=true)
+
+![Example 2](https://github.com/nikunjdk/ui_helper/blob/main/public/example_img_2.jpeg?raw=true)
+
 ## Installation
 
 pubspec.yaml:
